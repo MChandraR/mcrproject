@@ -1,0 +1,22 @@
+{
+  "name": "mcrproject",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MChandraR/mcrproject.git"
+  },
+  "author": "MChandraR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MChandraR/mcrproject/issues"
+  },
+  "homepage": "https://github.com/MChandraR/mcrproject#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
